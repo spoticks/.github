@@ -123,7 +123,7 @@
 ![예매내역](https://github.com/user-attachments/assets/ac764106-6e73-497d-b75c-68e0eea7f9c6)
 
 ### 마이페이지 - 나의 팀
-내가 좋아요 한 팀을 확인하고, 좋아요를 취소할 수 있습니다. 종목별 필터링이 가능합니다.
+내가 좋아요 한 팀을 확인하고, 좋아요를 취소할 수 있습니다.
 <img width="1331" alt="스크린샷 2025-01-13 오후 4 29 23" src="https://github.com/user-attachments/assets/17ff7aa5-84d4-4a94-826a-2f90378a678e" />
 
 ### 관리자 페이지 - 경기 목록 확인
