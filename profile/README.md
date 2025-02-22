@@ -64,8 +64,7 @@
 |zustand|Redis|
 |Tanstack query|MySQL|
 |axios|Gradle|
-|react-error-boundary|AWS(EC2, RDS)|
-|react-hook-form||
+|react-hook-form|AWS(EC2, RDS)|
 |react-modal||
 |react-naver-maps||
 |sweetalert2||
